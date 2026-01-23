@@ -1,0 +1,5 @@
+streamlit
+ultralytics
+opencv-python-headless
+boto3
+python-dotenv
